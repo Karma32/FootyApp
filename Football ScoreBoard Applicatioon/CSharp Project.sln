@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Project", "CSharp Project\CSharp Project.csproj", "{82D664EA-C88D-4552-8CF1-1BC749A4C2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootyApp TDD", "FootyApp TDD\FootyApp TDD.csproj", "{A74D9FB4-9EB1-45D8-97D3-A09FBEEAC520}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{82D664EA-C88D-4552-8CF1-1BC749A4C2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D664EA-C88D-4552-8CF1-1BC749A4C2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D664EA-C88D-4552-8CF1-1BC749A4C2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74D9FB4-9EB1-45D8-97D3-A09FBEEAC520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74D9FB4-9EB1-45D8-97D3-A09FBEEAC520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74D9FB4-9EB1-45D8-97D3-A09FBEEAC520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74D9FB4-9EB1-45D8-97D3-A09FBEEAC520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6CC7E36-C855-48F6-91E3-84494456DB69}
 	EndGlobalSection
 EndGlobal

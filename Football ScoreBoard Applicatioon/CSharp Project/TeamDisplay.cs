@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp_Project
 {
-    class TeamDisplay
+   public class TeamDisplay
     {
         private int score;
         private string TeamName;

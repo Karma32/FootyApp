@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace CSharp_Project
 {
-    class ScoreBoard
+   public class ScoreBoard
     {
         public ScoreBoard(string Team1, string Team2)
         {
             Home = new TeamDisplay(Team1);
             Away = new TeamDisplay(Team2);
+            
         }
 
         private TeamDisplay Home;
