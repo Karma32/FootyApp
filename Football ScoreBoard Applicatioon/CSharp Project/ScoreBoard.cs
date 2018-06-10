@@ -22,6 +22,7 @@ namespace CSharp_Project
         public void AwayGoal()
         {
             Away.Increment();
+
         }
 
         public void HomeGoal()
